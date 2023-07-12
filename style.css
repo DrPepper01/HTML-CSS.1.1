@@ -1,0 +1,39 @@
+body{
+    margin-top: 200px;
+}
+table{
+    width: 900px;
+    margin: 0 auto;
+    border-collapse: collapse ;
+}
+
+tr{
+    width: 30px;
+    height: 40px;
+    text-align: center;
+}
+th{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500px;
+    width: 20px;
+}
+td{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300px;
+}
+.black{
+    color: white;
+    background-color: black;
+}
+.green{
+    color: black;
+    background-color: greenyellow;
+}
+.dark{
+    color: white;
+    background-color: black;
+}
+.grey{
+    color: black;
+    background-color: rgb(226, 226, 226);
+}
